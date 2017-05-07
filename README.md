@@ -12,6 +12,7 @@ Esta es mi versión de CRUD. Probablemente añada pronto más funcionalidades ne
 
 ![EDITEDMSG](https://github.com/almAngel/CRUD_JSP_SQL/blob/master/SCREENSHOTS/editmsg.png)
 
+![DELETEDMSG](https://github.com/almAngel/CRUD_JSP_SQL/blob/master/SCREENSHOTS/delete.png)
 
 
 Ángel López Molina.
